@@ -15,10 +15,10 @@ let obj1 = {
     
     if (j ==k)
     {
-        console.log('trueee it has equal properties');
+        console.log('trueee both have same properties');
     }
      else{
-        console.log('no it does not');
+        console.log('no it do not have same propertis');
      }
     
     
